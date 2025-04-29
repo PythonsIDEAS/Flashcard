@@ -7,7 +7,7 @@
 
 FlashCards is a modern, interactive web application designed to enhance learning through digital flashcards. With a sleek user interface and intuitive design, it makes studying and memorization more engaging and effective.
 
-![FlashCards Preview]
+
 
 ## ✨ Features
 
